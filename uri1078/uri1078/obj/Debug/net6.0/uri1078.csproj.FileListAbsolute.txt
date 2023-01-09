@@ -1,0 +1,15 @@
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\bin\Debug\net6.0\uri1078.exe
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\bin\Debug\net6.0\uri1078.deps.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\bin\Debug\net6.0\uri1078.runtimeconfig.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\bin\Debug\net6.0\uri1078.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\bin\Debug\net6.0\uri1078.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.csproj.AssemblyReference.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.AssemblyInfoInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.AssemblyInfo.cs
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.csproj.CoreCompileInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\refint\uri1078.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\uri1078.genruntimeconfig.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1078\uri1078\obj\Debug\net6.0\ref\uri1078.dll

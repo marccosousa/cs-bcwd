@@ -1,0 +1,15 @@
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\bin\Debug\net6.0\uri1080.exe
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\bin\Debug\net6.0\uri1080.deps.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\bin\Debug\net6.0\uri1080.runtimeconfig.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\bin\Debug\net6.0\uri1080.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\bin\Debug\net6.0\uri1080.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.csproj.AssemblyReference.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.AssemblyInfoInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.AssemblyInfo.cs
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.csproj.CoreCompileInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\refint\uri1080.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\uri1080.genruntimeconfig.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1080\uri1080\obj\Debug\net6.0\ref\uri1080.dll

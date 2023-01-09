@@ -1,0 +1,15 @@
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\bin\Debug\net6.0\uri1145.exe
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\bin\Debug\net6.0\uri1145.deps.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\bin\Debug\net6.0\uri1145.runtimeconfig.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\bin\Debug\net6.0\uri1145.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\bin\Debug\net6.0\uri1145.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.csproj.AssemblyReference.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.AssemblyInfoInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.AssemblyInfo.cs
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.csproj.CoreCompileInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\refint\uri1145.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\uri1145.genruntimeconfig.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1145\uri1145\obj\Debug\net6.0\ref\uri1145.dll

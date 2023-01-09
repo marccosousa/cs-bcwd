@@ -1,0 +1,15 @@
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\bin\Debug\net6.0\uri1004.exe
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\bin\Debug\net6.0\uri1004.deps.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\bin\Debug\net6.0\uri1004.runtimeconfig.json
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\bin\Debug\net6.0\uri1004.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\bin\Debug\net6.0\uri1004.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.csproj.AssemblyReference.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.AssemblyInfoInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.AssemblyInfo.cs
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.csproj.CoreCompileInputs.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\refint\uri1004.dll
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.pdb
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\uri1004.genruntimeconfig.cache
+C:\Users\Marcola\Documents\marco-dev\cs-inicio-ws\uri1004\uri1004\obj\Debug\net6.0\ref\uri1004.dll
